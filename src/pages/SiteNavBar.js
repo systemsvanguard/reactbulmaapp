@@ -2,6 +2,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import NavLogo from "../images/site_logo.png";
+import "./NavBarJS";
 
 const SiteNavBar = () => {
   return (
